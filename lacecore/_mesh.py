@@ -1,6 +1,6 @@
-from ._vectors import PolyMeshVectors
+from ._mesh_data import MeshData
 
-class Mesh(PolyMeshData):
+class Mesh(MeshData):
     def mutable_copy():
         pass
 

@@ -1,4 +1,4 @@
-def AffineTransform():
+class Transform:
     def translate(self, translation):
         pass
 

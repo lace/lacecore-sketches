@@ -1,4 +1,4 @@
-class PolyMeshVectors:
+class MeshData:
     @property
     def attr_is_mutable(self, attr):
         pass

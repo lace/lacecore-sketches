@@ -1,4 +1,4 @@
-class Selection():
+class Selection:
     def keep_vertices(self):
         pass
 

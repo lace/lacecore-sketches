@@ -1,2 +1,2 @@
-from ._base_mutable import Mesh
-from ._base_immutable import ImmutableMesh
+from ._mesh import Mesh
+from ._immutable_mesh import ImmutableMesh
