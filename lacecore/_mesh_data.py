@@ -1,3 +1,6 @@
+from blmath.util.decorators import setter_property
+
+
 class MeshData:
     @property
     def attr_is_mutable(self, attr):

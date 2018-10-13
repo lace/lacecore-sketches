@@ -1,5 +1,6 @@
 from ._mesh_data import MeshData
 
+
 class Mesh(MeshData):
     def mutable_copy():
         pass
