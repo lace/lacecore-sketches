@@ -1,0 +1,10 @@
+# Used in dev.py.
+metabolexecutor
+click >=7.0,<8.0
+
+# Documentation.
+Sphinx
+recommonmark
+
+# Unit tests.
+nose2 == 0.8.0
