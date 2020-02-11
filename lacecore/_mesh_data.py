@@ -3,7 +3,15 @@ from blmath.util.decorators import setter_property
 
 class MeshData:
     @property
-    def attr_is_mutable(self, attr):
+    def attr_is_frozen(self, attr):
+        pass
+
+    @property
+    def unfreeze_attr(self, attr):
+        pass
+
+    @property
+    def freeze_attr(self, attr):
         pass
 
     @property
